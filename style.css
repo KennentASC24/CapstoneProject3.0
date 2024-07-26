@@ -1,0 +1,73 @@
+.header {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+nav {
+    background-color: #DBCFB0;
+    border: solid;
+    border-radius: 20px;
+}
+
+a {
+    padding: 20px;
+    display: flex; 
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: white;
+    opacity: 60%;
+    padding: 40px;
+}
+
+.images {
+    width: 8%;
+    border: solid;
+    border-color: #423e36;
+    border-radius: 50px;
+}
+
+body {
+    background-color: #6B4B3E;
+}
+
+h3 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: solid;
+    border-radius: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: #DBCFB0;
+}
+
+.image2 {
+    width: 65%;
+    border: solid;
+    border-radius: 50px;
+}
+
+.imageBox {
+    display: flex;
+    justify-content: center;
+}
+
+.search-button {
+    width: 50%;
+}
+
+.input {
+    width: 90%;
+}
+
+.searchbar {
+    display: flex;
+    justify-content: center;
+}
